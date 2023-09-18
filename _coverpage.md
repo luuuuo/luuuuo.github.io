@@ -1,16 +1,12 @@
+![logo](images/IMG_20230904_174056.jpg)
 
+# mall-learning
 
-![logo](https://picture.zhanghong110.top/docsify/91231289312398129.png)
+> mall学习教程，架构、业务、技术要点全方位解析。
 
+mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。
+涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、
+Redis、MongoDB、Mysql等技术，采用Docker容器化部署。
 
-
-###  记录一些日常工作中的经验
-
-
-
-<!-- 背景图片 -->
-
-![](https://picture.zhanghong110.top/docsify/88dcae92ae67e225aceac5c2a9fd6999_0.jpg)
-
-
-
+[GitHub](https://github.com/macrozheng/mall-learning)
+[Get Started](README.md)
